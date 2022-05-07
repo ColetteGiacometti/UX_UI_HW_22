@@ -104,6 +104,9 @@ color:black;
   justify-content: center;
 }
 
+.textFooter:hover {
+  font-weight: bold;
+}
 
 .social {
   float: right;
